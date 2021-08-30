@@ -4,5 +4,20 @@
   },
   "scripts": {
     "test": "jest"
-  }
+  },
+  "name": "ci",
+  "version": "1.0.0",
+  "main": "project.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clint1080/ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clint1080/ci/issues"
+  },
+  "homepage": "https://github.com/Clint1080/ci#readme",
+  "description": ""
 }
