@@ -3,3 +3,5 @@ function getGreeting(name){
 }
 
 module.exports = getGreeting;
+
+console.log('Dylan is amazing')
